@@ -40,6 +40,34 @@ GET https://educase-india-node-assignment.vercel.app/api/v1/Allprofiles
 GET https://educase-india-node-assignment.vercel.app/api/v1/profile/gauravsinghbora
 ```
 
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/GauRaVsinghbora/educase_india_node_assignment.git
+```
+
+Move into the project directory:
+
+```bash
+cd github-profile-analyzer
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the application:
+
+```bash
+npm run dev
+```
+
+---
+
 ## Tech Stack
 
 * Node.js
@@ -171,34 +199,6 @@ DB_NAME=your_database
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/GauRaVsinghbora/educase_india_node_assignment.git
-```
-
-Move into the project directory:
-
-```bash
-cd github-profile-analyzer
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the application:
-
-```bash
-npm run dev
-```
-
----
-
 ## Example Response
 
 ```json
@@ -216,18 +216,6 @@ npm run dev
 }
 ```
 
----
-
-## Future Improvements
-
-* Most Starred Repository Analysis
-* Repository Language Statistics
-* GitHub Contribution Analysis
-* Pagination and Filtering
-* API Documentation using Swagger
-* Caching for repeated requests
-
----
 
 ## Author
 
