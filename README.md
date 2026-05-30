@@ -13,6 +13,33 @@ A backend service built with **Node.js**, **Express.js**, **MySQL**, and the **G
 * RESTful API architecture
 * Cloud MySQL database using Railway
 
+## Live Demo
+
+**Base URL**
+
+https://educase-india-node-assignment.vercel.app/
+
+---
+
+## Postman Collection
+
+Postman Collection Link:
+
+https://lusip3.postman.co/workspace/lusip-Workspace~93011864-83af-4fef-82d2-dc85d553e999/folder/40629021-1c64c262-37d2-4166-99ce-fd82e0a5d154?action=share&creator=40629021
+
+---
+
+## API Endpoints
+```http
+POST https://educase-india-node-assignment.vercel.app/api/v1/analyze/gauravsinghbora
+```
+```http
+GET https://educase-india-node-assignment.vercel.app/api/v1/Allprofiles
+```
+```http
+GET https://educase-india-node-assignment.vercel.app/api/v1/profile/gauravsinghbora
+```
+
 ## Tech Stack
 
 * Node.js
