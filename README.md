@@ -176,7 +176,7 @@ DB_NAME=your_database
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/GauRaVsinghbora/educase_india_node_assignment.git
 ```
 
 Move into the project directory:
