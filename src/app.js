@@ -7,5 +7,8 @@ app.use(express.static('public'));
 
 import routes from './routes/github.routes.js';
 app.use('/api/v1', routes);
+app.get("/", (req, res) => {
+    res.send("Welcome to GitHub Profile Analyzer API");
+});
 
 export default app;
